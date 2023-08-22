@@ -1,0 +1,13 @@
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\AS=8.exe.config
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\AS=8.exe
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\AS=8.pdb
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\EntityFramework.dll
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\EntityFramework.xml
+D:\Exercises\Assignment 8\AS=8\AS=8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exercises\Assignment 8\AS=8\AS=8\obj\Debug\AS=8.csproj.AssemblyReference.cache
+D:\Exercises\Assignment 8\AS=8\AS=8\obj\Debug\AS=8.csproj.SuggestedBindingRedirects.cache
+D:\Exercises\Assignment 8\AS=8\AS=8\obj\Debug\AS=8.csproj.CoreCompileInputs.cache
+D:\Exercises\Assignment 8\AS=8\AS=8\obj\Debug\AS=8.csproj.CopyComplete
+D:\Exercises\Assignment 8\AS=8\AS=8\obj\Debug\AS=8.exe
+D:\Exercises\Assignment 8\AS=8\AS=8\obj\Debug\AS=8.pdb
